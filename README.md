@@ -1,4 +1,4 @@
-### Hi there, I'm Siddhant Baheti <img src="https://imgs.search.brave.com/0jep-2knoESPUQ9WYnEi62ruSkRSOsrGpWQfAxmKVQs/rs:fit:480:480:1/g:ce/aHR0cHM6Ly9tZWRp/YTEudGVub3IuY29t/L2ltYWdlcy8wNDNj/MmRiNmNlNTU4MDgw/ODI0ZTFkYjg3OGIz/Mzg4Mi90ZW5vci5n/aWY_aXRlbWlkPTYx/NTk4MTQ.gif" width="60px" height="60px" >
+# Hi there, I'm Siddhant Baheti <img src="https://imgs.search.brave.com/0jep-2knoESPUQ9WYnEi62ruSkRSOsrGpWQfAxmKVQs/rs:fit:480:480:1/g:ce/aHR0cHM6Ly9tZWRp/YTEudGVub3IuY29t/L2ltYWdlcy8wNDNj/MmRiNmNlNTU4MDgw/ODI0ZTFkYjg3OGIz/Mzg4Mi90ZW5vci5n/aWY_aXRlbWlkPTYx/NTk4MTQ.gif" width="60px" height="60px" >
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](www.linkedin.com/in/sid0610)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/sid_0610/)
 
