@@ -1,4 +1,4 @@
-### <div align="center">Hello , I'm Siddhant Baheti</div>  
+# <div align="center">Hello , I'm Siddhant Baheti</div>  
   
 
 - I'm currently pursuing BTech in Information Technology from VJTI, Mumbai.  
